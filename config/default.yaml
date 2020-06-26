@@ -1,0 +1,6 @@
+# 请将一下配置添加到default.yaml中
+QQMusic:
+    enable: false
+    account: 10000
+    password: 10000
+    
